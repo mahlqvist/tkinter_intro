@@ -1,3 +1,3 @@
-# Calculator
+# Basic tkinter
 
-A calculator app built with [tkinter](https://docs.python.org/3/library/tkinter.html)
+A simple app to understand the fundamentals of [tkinter](https://docs.python.org/3/library/tkinter.html)
